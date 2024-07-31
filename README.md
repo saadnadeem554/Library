@@ -1,2 +1,2 @@
 # Library
-library webpage for TheOdinProject
+library webpage for TheOdinProject.
